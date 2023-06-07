@@ -149,8 +149,10 @@ footer {
         display: flex;
         flex-direction: column;
         grid-area: subscribe;
+        justify-content: center;
+        align-items: center;
         max-width: 100%;
-        /* border: 1px solid red; */
+
     }
     #subscribe input {
         width: 300px;
